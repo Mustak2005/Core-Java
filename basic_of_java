@@ -19,8 +19,17 @@ Java introduced platform independence.
 A Java program can be written once and run on different platforms without rewriting the code for each platform.
 
 Java versions:
-1.Java 1.0: JVM,Core library,applets.
-
+1. Java 1.0 (1996)
+- First official Java release.
+- Introduced Object-Oriented Programming.
+- Platform independence (Write Once, Run Anywhere).
+- Introduced JVM (Java Virtual Machine).
+2. Java 5 (2004)
+- Generics.
+- Annotations.
+- Enum data types.
+- Enhanced for loop.
+- Autoboxing and unboxing.
 
 Numerical datatypes:byte,short,int,float,double
 String datatype:char,string
@@ -30,4 +39,25 @@ Variable rules:
 -Should'nt start numbers,special symbols
 -do not contain space
 
+Method Explanation
+Scanner method  example  return type
+nextInt()        2        int
+nextFloat()      4.5      float
+nextDouble()     5.5      double
+nextLong()       12345    long
+nextShort()      10       short
+nextByte()       100      byte
+next()           Mustak   String
+nextLine()       Hello    String
+nextBoolean()    true     boolean
 
+Operators
+-Arthemitic operators
+| Operator    Name     Example   Result 
+| `+` | Addition | `10 + 5` | 15 |
+| `-` | Subtraction | `10 - 5` | 5 |
+| `*` | Multiplication | `10 * 5` | 50 |
+| `/` | Division | `10 / 5` | 2 |
+| `%` | Modulus (Remainder) | `10 % 3` | 1 |
+| `++` | Increment | `a++` | a = a + 1 |
+| `--` | Decrement | `a--` | a = a - 1 |
