@@ -17,3 +17,17 @@ C/C++ programs had to be recompiled — often rewritten — for each device.
 The Idea: Write Once, Run Anywhere (WORA)
 Java introduced platform independence.
 A Java program can be written once and run on different platforms without rewriting the code for each platform.
+
+Java versions:
+1.Java 1.0: JVM,Core library,applets.
+
+
+Numerical datatypes:byte,short,int,float,double
+String datatype:char,string
+Boolean datatype:bool
+
+Variable rules:
+-Should'nt start numbers,special symbols
+-do not contain space
+
+
